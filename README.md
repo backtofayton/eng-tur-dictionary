@@ -15,10 +15,10 @@ $ py start.py
 
 ## Authors
 
-👤 **Author1**
+👤 **damdafayton**
 
-- GitHub: [@damdafayton](https://github.com/damdafayton)
-- LinkedIn: [/in/damdafayton](https://linkedin.com/in/damdafayton)
+- [Github](https://github.com/damdafayton)
+- [LinkedIn](https://linkedin.com/in/damdafayton)
 
 
 ## 🤝 Contributing
