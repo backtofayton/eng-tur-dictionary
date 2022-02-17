@@ -1,7 +1,6 @@
-[Click here to watch the app](https://www.loom.com/embed/508ece15e8304ebd94540962de7a6fc7)
-
 # English to Turkish CLI Dictionary
 
+![](./animation.gif)
 
 ## Built With
 
